@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "googleapis": "^26.0.1",
+    "googleapis": "^59.0.0",
     "request": "^2.83.0",
     "yargs": "^11.0.0"
   },
